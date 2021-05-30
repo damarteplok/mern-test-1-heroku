@@ -1,7 +1,7 @@
 import Layout from "components/Layout";
 import ResourceForm from "../../components/ResourceForm";
 import axios from "axios";
-import {router} from "next/client";
+import router from "next/router"
 
 const ResourceCreate = () => {
 
